@@ -1,0 +1,106 @@
+﻿@model List<sedra_0sman.Models.Product>
+
+<div class="item_section layout_padding2">
+    <div class="container">
+        <div class="item_container">
+            <div class="box">
+                <div class="price">
+                    <h6>
+                        Best PRICE
+                    </h6>
+                </div>
+                <div class="img-box">
+                    <img src="~/images/slider-image.png" alt="">
+                </div>
+                <div class="name">
+                    <h5>
+                        Bracelet
+                    </h5>
+                </div>
+            </div>
+            <div class="box">
+                <div class="price">
+                    <h6>
+                        Best PRICE
+                    </h6>
+                </div>
+                <div class="img-box">
+                    <img src="~/images/tektas2.png" alt="">
+                </div>
+                <div class="name">
+                    <h5>
+                        Ring
+                    </h5>
+                </div>
+            </div>
+            <div class="box">
+                <div class="price">
+                    <h6>
+                        Best PRICE
+                    </h6>
+                </div>
+                <div class="img-box">
+                    <img src="~/images/kupe2.png" alt="">
+                </div>
+                <div class="name">
+                    <h5>
+                        Earings
+                    </h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<section class="price_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>
+                Our Jewellery Price
+            </h2>
+        </div>
+        <div class="d-flex justify-content-center">
+        </div>
+        @foreach(var item in Model)
+        {
+   
+            <div class="price_container">
+                <div class="box">
+                    <div class="name">
+                        <h6>
+                          @item.Name
+                        </h6>
+                    </div>
+                    <div class="img-box">
+                        <img src="@Url.Content(item.Photo) "alt="">
+                    </div>
+                    <div class="detail-box">
+                        <h5>
+                            $<span> @item.Price</span>
+                        </h5>
+                        <a href="">
+                            Buy Now
+                        </a>
+                        <form >
+                            <input type="hidden" name="productId" value="@item.Id" />
+                            <a href="">
+                               add to cart
+                            </a>
+                        </form>
+                    </div>
+                </div>
+
+             
+
+            </div>
+
+
+            
+    
+        }
+
+</section>
+
+
+    

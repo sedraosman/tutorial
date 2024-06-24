@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sedra 0sman.bundle.scp.css",
+      "PackagePath": "staticwebassets\\sedra 0sman.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\fonts\\Poppins\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\fonts\\ethnocentric\\ethnocentric rg it.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ethnocentric\\ethnocentric rg it.ttf"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\fonts\\ethnocentric\\ethnocentric rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ethnocentric\\ethnocentric rg.ttf"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\fonts\\ethnocentric\\read-this.html",
+      "PackagePath": "staticwebassets\\fonts\\ethnocentric\\read-this.html"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\fonts\\ethnocentric\\typodermic-eula-02-2014.pdf",
+      "PackagePath": "staticwebassets\\fonts\\ethnocentric\\typodermic-eula-02-2014.pdf"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\design-1.png",
+      "PackagePath": "staticwebassets\\images\\design-1.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\design-2.png",
+      "PackagePath": "staticwebassets\\images\\design-2.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\fb.png",
+      "PackagePath": "staticwebassets\\images\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\girl.png",
+      "PackagePath": "staticwebassets\\images\\girl.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\hero-bg.png",
+      "PackagePath": "staticwebassets\\images\\hero-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\insta.png",
+      "PackagePath": "staticwebassets\\images\\insta.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\kupe2.png",
+      "PackagePath": "staticwebassets\\images\\kupe2.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\man.png",
+      "PackagePath": "staticwebassets\\images\\man.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\next-black.png",
+      "PackagePath": "staticwebassets\\images\\next-black.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\phone.png",
+      "PackagePath": "staticwebassets\\images\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\prev-black.png",
+      "PackagePath": "staticwebassets\\images\\prev-black.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\ring-img.jpg",
+      "PackagePath": "staticwebassets\\images\\ring-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\slid.png",
+      "PackagePath": "staticwebassets\\images\\slid.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\slider-image.png",
+      "PackagePath": "staticwebassets\\images\\slider-image.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\tektas.png",
+      "PackagePath": "staticwebassets\\images\\tektas.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\tektas2.png",
+      "PackagePath": "staticwebassets\\images\\tektas2.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\tektas3.png",
+      "PackagePath": "staticwebassets\\images\\tektas3.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\images\\vanCleef.png",
+      "PackagePath": "staticwebassets\\images\\vanCleef.png"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\joudi\\source\\repos\\sedra 0sman\\sedra 0sman\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.sedra 0sman.props",
+      "PackagePath": "build\\sedra 0sman.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.sedra 0sman.props",
+      "PackagePath": "buildMultiTargeting\\sedra 0sman.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.sedra 0sman.props",
+      "PackagePath": "buildTransitive\\sedra 0sman.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.sedra 0sman.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
